@@ -14,6 +14,11 @@ using System;
 
 class Solution {
 
+    // Hourglass problem link: https://www.hackerrank.com/challenges/2d-array/problem
+    /*
+    An hourglass sum is the sum of an hourglass' values. 
+    Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum. The array will always be .
+    */
    // Complete the hourglassSum function below.
     static int hourglassSum(int[][] arr) {
         // The array is 2 Dimention 6 x 6 
