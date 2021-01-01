@@ -22,13 +22,10 @@ class Solution {
         var query = Console.ReadLine();     
         do 
         {                   
-            if(phoneBook.ContainsKey(query)){
+            if(phoneBook.ContainsKey(query))
                 Console.WriteLine($"{query}={phoneBook[query]}");
-            }
             else
-            {
-                Console.WriteLine("Not found");    
-            }
+                Console.WriteLine("Not found");  
             // assign the query again here, for the next
             query = Console.ReadLine();
         } while (!string.IsNullOrWhiteSpace(query));
