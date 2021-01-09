@@ -1,1 +1,1 @@
-# hackerrank
+Hey there, here I post the solutions to the problems I solve in the HackerRank website. I do this whenever I get some free time, so please excuse me if you don't find any specific solution here. 
