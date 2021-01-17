@@ -53,3 +53,30 @@ Hey there, here I post the solutions to the problems I solve in the HackerRank w
     </p>
 </details>
 
+# Algorithms
+
+- [birthday-cake-candles](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-birthday-cake-candles-csharp.cs)
+
+- [divisible-sum-pairs](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-divisible-sum-pairs.cs)
+  
+- [grading-students](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-grading-students-csharp.cs)
+
+- [palindrome-index](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-palindrome-index-csharp.cs)
+
+- [plus-minus](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-plus-minus-csharp.cs)
+
+- [staircase](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-staircase-csharp.cs)
+
+- [time-conversion](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-time-conversion-csharp.cs)
+
+# Data Structures
+
+- [array-computeDifference](https://github.com/SibeeshVenu/HackerRank/blob/main/data-structures/array/hackerrank-array-computeDifference-Day-14.cs)
+
+- [hourglass](https://github.com/SibeeshVenu/HackerRank/blob/main/data-structures/array/hackerrank-hourglass-csharp.cs)
+
+- [reverse-array](https://github.com/SibeeshVenu/HackerRank/blob/main/data-structures/array/hackerrank-reverse-array-csharp.cs)
+
+- [sparse-arrays-find-occurence](https://github.com/SibeeshVenu/HackerRank/blob/main/data-structures/array/hackerrank-sparse-arrays-find-occurence.cs)
+
+- [dictionaries-and-maps](https://github.com/SibeeshVenu/HackerRank/blob/main/data-structures/key-value-pairs/hackerrank-dictionaries-and-maps-solution.cs)
