@@ -1,12 +1,16 @@
 Hey there, here I post the solutions to the problems I solve in the HackerRank website. I do this whenever I get some free time, so please excuse me if you don't find any specific solution here. 
 
-#30 Days of Code
+# 30 Days of Code
 
 - [day-0-hello-world.cs ](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-0-hello-world.cs)
 - [day-2-operators.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-2-operators.cs)
 - [day-3-intro-to-conditional-statements.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-3-intro-to-conditional-statements.cs)
 - [day-4-class-vs-instance.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-4-class-vs-instance.cs)
-- [day-5-loops.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-5-loops.cs)
+
+<details>
+    <summary>Load more</summary>
+    <p>
+        - [day-5-loops.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-5-loops.cs)
 - [day-6-let-us-review.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-6-let-us-review.cs)
 - [day-7-arrays.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-7-arrays.cs)
 - [day-8-dictionaries-and-maps.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-8-dictionaries-and-maps.cs)
@@ -26,3 +30,6 @@ Hey there, here I post the solutions to the problems I solve in the HackerRank w
 - [day-22-binary-search-trees.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-22-binary-search-trees.cs)
 - [day-23-bst-level-order-traversal.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-23-bst-level-order-traversal.cs)
 - [day-24-more-linked-lists.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-24-more-linked-lists.cs)
+    </p>
+</details>
+
