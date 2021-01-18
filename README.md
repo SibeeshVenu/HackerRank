@@ -50,6 +50,8 @@ Hey there, here I post the solutions to the problems I solve in the HackerRank w
 - [day-23-bst-level-order-traversal.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-23-bst-level-order-traversal.cs)
 
 - [day-24-more-linked-lists.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-24-more-linked-lists.cs)
+
+- [day-25-running-time-and-complexity.cs](https://github.com/SibeeshVenu/HackerRank/blob/main/30-days-of-code/day-25-running-time-and-complexity.cs)
     </p>
 </details>
 
