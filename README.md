@@ -71,6 +71,8 @@ Hey there, here I post the solutions to the problems I solve in the HackerRank w
 
 - [time-conversion](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-time-conversion-csharp.cs)
 
+- [Bill Division Bon Appetit](https://github.com/SibeeshVenu/HackerRank/blob/main/algorithms/hackerrank-bill-division-bon-appetit-csharp.cs)
+
 # Data Structures
 
 - [array-computeDifference](https://github.com/SibeeshVenu/HackerRank/blob/main/data-structures/array/hackerrank-array-computeDifference-Day-14.cs)
